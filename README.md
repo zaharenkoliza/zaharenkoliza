@@ -1,16 +1,70 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Елизавета Захаренко
 
-<!--
-**zaharenkoliza/zaharenkoliza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я веб-разработчик из Санкт-Петербурга с опытом полного цикла разработки — от проектирования баз данных до создания отзывчивых интерфейсов. В данный момент я учусь в магистратуре ИТМО по направлению "Веб-технологии" и работаю над интересными проектами.
 
-Here are some ideas to get you started:
+## 🛠 Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+
+**Backend & Database:**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+
+**Other:**
+![English (C1 Advanced)](https://img.shields.io/badge/-English%20(C1%20Advanced)-0052CC?style=flat-square)
+![Russian (Native)](https://img.shields.io/badge/-Russian%20(Native)-0052CC?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+## 💼 Опыт работы
+
+**Веб-разработчик** *М18* | Март 2024 — Февраль 2026
+- Разработка сайтов-конструкторов и личных кабинетов для застройщиков
+- Поддержка и оптимизация легаси-кода (PHP, Twig, Smarty, jQuery)
+- Разработка набора из 70+ отзывчивых настраиваемых компонентов, интегрированных с REST API
+- Оптимизация производительности сложных выборщиков с помощью внедрения React и React Redux
+- Курирование команды поддержки сайта PLG, коммуникация с клиентами, участие в code review
+
+**Fullstack-разработчик** *Университет ИТМО* | Сентябрь 2024 — Май 2025
+- Спроектировала базу данных для хранения учебных планов университета
+- Реализовала пайплайн импорта учебных планов из CSV
+- Разработала API для взаимодействия с БД на PHP
+- Создала SPA-приложение на React для визуализации данных под задачи заказчика
+
+**Ментор** *Университет ИТМО* | Сентябрь 2025 — настоящее время
+- Помощь в организации пар по дисциплине "Базы данных игровых приложений"
+- Консультирование студентов по вопросам архитектуры и реализации интерфейсов с использованием React.js и Vue.js
+
+## 🎓 Образование и сертификаты
+
+| Степень | Учебное заведение | Период |
+|---------|-------------------|--------|
+| Магистр | Университет ИТМО, Программная инженерия (Веб-технологии) | 2025–2027 |
+| Бакалавр | Университет ИТМО, Программная инженерия | 2021–2025 |
+| Повышение квалификации | ITMO-Mentors (Университет ИТМО) | 2025 |
+| Курс | Методы анализа данных (bonustrack ИТМО) | 2024 |
+
+**Сертификат:** Cambridge English Advanced (CAE), уровень C1 Advanced (2021)
+
+## 📫 Контакты
+
+- **Telegram:** [@zaharenkoliza](https://t.me/zaharenkoliza)
+- **Email:** [Zaharenkolizaveta@gmail.com](mailto:Zaharenkolizaveta@gmail.com)
+- **GitHub:** [github.com/zaharenkoliza](https://github.com/zaharenkoliza)
+
+---
+
+### 📊 Кратко о себе:
+- 🐍 Базово знакома с Python и Node.js
+- 🐳 Имею опыт работы с Docker
+- 🔄 Понимаю принципы CI/CD
+- 🗣️ Свободно владею английским (C1 Advanced, сертификат CAE)
+- 📚 Продолжаю активно развиваться в веб-технологиях
